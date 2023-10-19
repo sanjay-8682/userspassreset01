@@ -1,0 +1,66 @@
+/*Register*/
+.showpass{
+    position:absolute;
+    top: 171px;
+    left: 740px;
+    padding:2px ;
+    background-color: gray;
+    width: 55px;
+
+}
+
+#email{
+    padding: 5px;
+    margin-bottom: 2px;
+    width: 350px;
+}
+#fname{
+    padding: 5px;
+    margin-bottom: 2px;
+    width: 350px;
+}
+#Password{
+    padding: 5px;
+    margin-bottom: 2px;
+    width: 350px;
+
+}
+.btn_1{
+    background-color: rgb(0, 150, 0);
+    color: white;
+    padding: 5px;
+    margin-bottom: 2px;
+    width: 100px;
+}
+/*Login*/
+#show{
+    position:absolute;
+    top: 141px;
+    left:740px;
+    padding:2px ;
+    background-color: gray;
+    width: 55px;
+
+}
+#password{
+    padding: 5px;
+    margin-bottom: 2px;
+    width: 350px;
+ 
+}
+.btn_2{
+    background-color: green;
+    color: white;
+    padding: 5px;
+    margin-bottom: 2px;
+    width: 100px;
+
+}
+
+.btn_3{
+    background-color:green;
+    color: white;
+    padding: 5px;
+    margin-bottom: 2px;
+    width: 100px;
+}
